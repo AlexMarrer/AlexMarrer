@@ -11,11 +11,6 @@
 <img align="center" src="https://raw.githubusercontent.com/AlexMarrer/AlexMarrer/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AlexMarrer/count.svg?"  />
-</div>
-
-<div align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=alex-uscata" alt="Songs">
 </div>
 
 <h3>Socials</h3>
@@ -32,5 +27,6 @@
 
   <div align="center">
   <img src="https://media.tenor.com/E8BrPIFSjSUAAAAM/newjeans-hanni-hanni-kpop.gif" alt="Hanni cool Dance">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=alex-uscata" alt="Songs">
   </div>
 </div>
