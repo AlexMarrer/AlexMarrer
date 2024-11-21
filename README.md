@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&duration=3000&pause=300&color=F72EEB&multiline=true&width=435&height=250&lines=Hi+there!+I'm+Alex+Uscata.;New+hair%2C+new+tee;NewJeans%2C+do+you+see%3F;New+hair%2C+new+tee;NewJeans%2C+do+you+see%3F;Make+it+feel+like+a+game;Look+at+us%2C+we+go+on+and+on+again;What+we+wanna+do%2C+on+and+on+again)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&duration=3000&pause=300&color=F72EEB&width=435&lines=Hi+there!+I'm+Alex+Uscata.;New+hair%2C+new+tee;NewJeans%2C+do+you+see%3F;New+hair%2C+new+tee;NewJeans%2C+do+you+see%3F;Make+it+feel+like+a+game;Look+at+us%2C+we+go+on+and+on+again;What+we+wanna+do%2C+on+and+on+again)](https://git.io/typing-svg)
 
 ![Bild](bilder/newjeans.jpg)
 
