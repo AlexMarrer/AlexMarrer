@@ -24,4 +24,8 @@
   <a href="https://www.linkedin.com/in/alex-uscata-9695a3317/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
   </a>
+
+  <div align="center">
+  <img src="https://media.tenor.com/E8BrPIFSjSUAAAAM/newjeans-hanni-hanni-kpop.gif" alt="NewJeans  OMG Dance">
+  </div>
 </div>
