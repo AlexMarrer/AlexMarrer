@@ -13,6 +13,11 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlexMarrer/count.svg?"  />
 </div>
+
+<div align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=alex-uscata" alt="Songs">
+</div>
+
 <h3>Socials</h3>
 <div align="center">
   <a href="https://discord.com/users/449970203569291264" target="_blank">
@@ -26,6 +31,6 @@
   </a>
 
   <div align="center">
-  <img src="https://media.tenor.com/E8BrPIFSjSUAAAAM/newjeans-hanni-hanni-kpop.gif" alt="NewJeans  OMG Dance">
+  <img src="https://media.tenor.com/E8BrPIFSjSUAAAAM/newjeans-hanni-hanni-kpop.gif" alt="Hanni cool Dance">
   </div>
 </div>
