@@ -10,8 +10,7 @@
 <h3>Contribution</h3>
 <img align="center" src="https://raw.githubusercontent.com/AlexMarrer/AlexMarrer/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<div align="center">
-</div>
+![Bild](bilder/robert-downey-jr-rdj.gif)
 
 <h3>Socials</h3>
 <div align="center">
